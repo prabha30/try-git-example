@@ -1,0 +1,16 @@
+A software testing practice that follows the principles of agile software development is called Agile Testing. Agile is an iterative development methodology, where requirements evolve through collaboration between the customer and self-organizing teams and agile aligns development with customer needs.
+
+---------------------------------------------
+To Open Directory:
+   nautilus /home/karthick/Music
+    xdg-open /home/karthick/Music
+
+To Open URL:
+    xdg-open http://google.com
+    google-chrome http://google.com
+    opera http://google.com
+    firefox http://google.com
+If you want to open two URL's at the same time then leave some space after the first URL and type the second,
+    firefox www.google.com www.gmail.com
+
+----------------------------------------------
